@@ -71,4 +71,4 @@ index.html
 Проект 2013 года, в сохранности только демонстрационное видео и растровая графика, реализовано на базе XNA-библиотек (отрисовка, без физики)
 
 [Ссылка на видео](https://youtu.be/9GW0Dyw1veA)
-![Граффика]https://i.ytimg.com/vi/9GW0Dyw1veA/hqdefault.jpg)
+![Граффика](https://i.ytimg.com/vi/9GW0Dyw1veA/hqdefault.jpg)
